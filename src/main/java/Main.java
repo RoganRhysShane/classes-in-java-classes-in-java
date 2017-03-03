@@ -25,10 +25,14 @@ public class Main {
      */
     public static void main(String[] args) {
 
-        // todo: create a variable that can hold an Animal and assign it to a new instance of an animal
 
+
+
+        // todo: create a variable that can hold an Animal and assign it to a new instance of an animal
+        Animal boy = new Animal();
         // todo: print the animal to the console
 
+        System.out.println(boy);
     }
 
 }
